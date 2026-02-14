@@ -11,7 +11,7 @@ A web application to manage students and track daily attendance.
 
 ## 🚀 Installation Instructions
 
-
+https://github.com/JoealAJ/Attenece-tracker.git
 
 ---
 
