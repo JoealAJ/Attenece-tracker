@@ -11,11 +11,7 @@ A web application to manage students and track daily attendance.
 
 ## 🚀 Installation Instructions
 
-### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-
-cd your-repo-name
 
 ---
 
